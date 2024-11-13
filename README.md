@@ -6,7 +6,7 @@
 
 - `Buscar Livro API `: Permite que o usuário consulte um livro na API e persista no banco
 - `Listar Livros `: Lista os livros cadastrados
-- `Listar Autores `: Lista os livros cadastrados
+- `Listar Autores `: Lista os autores cadastrados
 - `Listar Autores Vivos `: Lista os autores vivos em um determinado ano
 
 - ## ✔️ Técnicas e tecnologias utilizadas
